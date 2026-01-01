@@ -1,2 +1,3 @@
 # Sergey Balakirev's courses
-![](ML-engineer-1.jpg)
+### Добрая, добрая стандартная библиотека Python [course](https://stepik.org/course/259466/syllabus)
+![](/images/python-sl.png)
